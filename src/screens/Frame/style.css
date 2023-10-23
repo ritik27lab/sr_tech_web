@@ -1,0 +1,1616 @@
+.frame {
+  align-items: flex-end;
+  background-color: #000000;
+  display: flex;
+  flex-wrap: wrap;
+  gap: -717px 0px;
+  min-height: 3757px;
+  min-width: 1440px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.frame .div {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  justify-content: center;
+  position: relative;
+  width: 1440px;
+}
+
+.frame .header {
+  background-color: #000000;
+  border: 1px solid;
+  height: 123px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.frame .STACKRACERS {
+  height: 15px;
+  left: 169px;
+  position: absolute;
+  top: 54px;
+  width: 180px;
+}
+
+.frame .text-wrapper {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 460px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+}
+
+.frame .stacl-racer-logo {
+  height: 74px;
+  left: 97px;
+  position: absolute;
+  top: 24px;
+  width: 67px;
+}
+
+.frame .who-we-are {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 573px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+}
+
+.frame .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 753px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+}
+
+.frame .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 911px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+}
+
+.frame .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+}
+
+.frame .vector {
+  height: 17px;
+  left: 1114px;
+  position: absolute;
+  top: 54px;
+  width: 17px;
+}
+
+.frame .line {
+  height: 21px;
+  left: 1244px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.frame .overlap {
+  background-image: url(https://c.animaapp.com/TjgN3R4O/img/vector-4@2x.png);
+  background-size: 100% 100%;
+  height: 21px;
+  left: 1269px;
+  position: absolute;
+  top: 52px;
+  width: 21px;
+}
+
+.frame .img {
+  height: 8px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 9px;
+}
+
+.frame .vector-2 {
+  height: 21px;
+  left: 1309px;
+  position: absolute;
+  top: 52px;
+  width: 21px;
+}
+
+.frame .overlap-group {
+  height: 25px;
+  left: 1347px;
+  position: absolute;
+  top: 50px;
+  width: 25px;
+}
+
+.frame .vector-3 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 23px;
+}
+
+.frame .vector-4 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.frame .navbar-logo-left {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  left: 1304px;
+  padding: 0px 24px;
+  position: absolute;
+  top: 295px;
+  width: 1440px;
+}
+
+.frame .navbar-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: 1200px;
+}
+
+.frame .navbar-content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 1200px;
+}
+
+.frame .navbar-brand {
+  flex: 0 0 auto;
+  margin-bottom: -1592.58px;
+  margin-left: -762.01px;
+  position: relative;
+}
+
+.frame .navbar-menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.frame .navbar-link {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 24px 12px;
+  position: relative;
+}
+
+.frame .text-wrapper-5 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame .navbar-button {
+  all: unset;
+  align-items: center;
+  background-color: #000000;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+}
+
+.frame .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame .HOME {
+  align-items: center;
+  background-color: #000000;
+  border: 1px solid;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: -129px 96px;
+  justify-content: center;
+  padding: 1px 0px;
+  position: relative;
+  width: 1440px;
+}
+
+.frame .div-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 25px;
+  justify-content: center;
+  position: relative;
+}
+
+.frame .we-create-attractive {
+  color: transparent;
+  font-family: "Red Rose", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  height: 131px;
+  letter-spacing: 0;
+  line-height: 69.4px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  width: 1185px;
+}
+
+.frame .span {
+  color: #ffffff;
+}
+
+.frame .text-wrapper-7 {
+  color: #5fc1e2;
+}
+
+.frame .we-are-an-family-of {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26.6px;
+  position: relative;
+  text-align: center;
+  width: 770px;
+}
+
+.frame .div-wrapper {
+  align-items: center;
+  background-color: #5fc1e2;
+  border-radius: 30px;
+  box-shadow: 3px 10px 21px #00000040;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.frame .text-wrapper-8 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 228px;
+}
+
+.frame .group {
+  height: 162px;
+  margin-left: -74px;
+  margin-right: -96px;
+  position: relative;
+  width: 1610px;
+}
+
+.frame .overlap-2 {
+  height: 266px;
+  position: relative;
+  top: -37px;
+  width: 1588px;
+}
+
+.frame .rectangle {
+  height: 266px;
+  left: 23px;
+  position: absolute;
+  top: 0;
+  width: 1544px;
+}
+
+.frame .text-wrapper-9 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 56px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-2 {
+  background-color: #000000;
+  height: 3px;
+  left: 223px;
+  position: absolute;
+  top: 79px;
+  width: 28px;
+}
+
+.frame .text-wrapper-10 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 260px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 55px;
+  white-space: nowrap;
+  width: 412px;
+}
+
+.frame .text-wrapper-11 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 724px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-3 {
+  background-color: #000000;
+  height: 3px;
+  left: 675px;
+  position: absolute;
+  top: 81px;
+  width: 28px;
+}
+
+.frame .text-wrapper-12 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 980px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-4 {
+  background-color: #000000;
+  height: 3px;
+  left: 936px;
+  position: absolute;
+  top: 81px;
+  width: 28px;
+}
+
+.frame .rectangle-5 {
+  background-color: #000000;
+  height: 3px;
+  left: 1063px;
+  position: absolute;
+  top: 81px;
+  width: 28px;
+}
+
+.frame .text-wrapper-13 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 1100px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-6 {
+  height: 3px;
+  left: 1338px;
+  position: absolute;
+  top: 145px;
+  width: 28px;
+}
+
+.frame .text-wrapper-14 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 1384px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-15 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-16 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 267px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-17 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 517px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-18 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 717px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-7 {
+  background-color: #000000;
+  height: 3px;
+  left: 216px;
+  position: absolute;
+  top: 142px;
+  width: 28px;
+}
+
+.frame .rectangle-8 {
+  background-color: #000000;
+  height: 3px;
+  left: 472px;
+  position: absolute;
+  top: 143px;
+  width: 28px;
+}
+
+.frame .rectangle-9 {
+  background-color: #000000;
+  height: 3px;
+  left: 681px;
+  position: absolute;
+  top: 143px;
+  width: 28px;
+}
+
+.frame .rectangle-10 {
+  background-color: #000000;
+  height: 3px;
+  left: 897px;
+  position: absolute;
+  top: 143px;
+  width: 28px;
+}
+
+.frame .text-wrapper-19 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 946px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-11 {
+  background-color: #000000;
+  height: 3px;
+  left: 23px;
+  position: absolute;
+  top: 141px;
+  width: 28px;
+}
+
+.frame .SERVICES {
+  background-color: #000000;
+  height: 857px;
+  margin-left: -717px;
+  position: relative;
+  width: 1440px;
+}
+
+.frame .service-container {
+  height: 556px;
+  left: 65px;
+  position: absolute;
+  top: 212px;
+  width: 1305px;
+}
+
+.frame .p {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 506px;
+  letter-spacing: 0;
+  line-height: 28.9px;
+  position: absolute;
+  top: 154px;
+  width: 634px;
+}
+
+.frame .line-2 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 256px;
+  width: 1300px;
+}
+
+.frame .web-dev {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 157px;
+  white-space: nowrap;
+}
+
+.frame .line-3 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 1301px;
+}
+
+.frame .arrow-up-right-wrapper {
+  background-color: #5fc1e2;
+  border-radius: 35px;
+  height: 70px;
+  left: 1231px;
+  position: absolute;
+  top: 4px;
+  width: 70px;
+}
+
+.frame .arrow-up-right {
+  height: 28px;
+  left: 21px;
+  position: absolute;
+  top: 21px;
+  width: 28px;
+}
+
+.frame .img-wrapper {
+  border: 4px solid;
+  border-color: #5fc1e2;
+  border-radius: 35px;
+  height: 70px;
+  left: 1231px;
+  position: absolute;
+  top: 149px;
+  width: 70px;
+}
+
+.frame .arrow-up-right-2 {
+  height: 28px;
+  left: 17px;
+  position: absolute;
+  top: 17px;
+  width: 28px;
+}
+
+.frame .we-are-experts-in {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 504px;
+  letter-spacing: 0;
+  line-height: 28.9px;
+  position: absolute;
+  top: 302px;
+  width: 652px;
+}
+
+.frame .text-wrapper-21 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28.9px;
+}
+
+.frame .text-wrapper-22 {
+  font-weight: 700;
+}
+
+.frame .app-dev {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+  white-space: nowrap;
+}
+
+.frame .overlap-group-2 {
+  border: 4px solid;
+  border-color: #5fc1e2;
+  border-radius: 35px;
+  height: 70px;
+  left: 1231px;
+  position: absolute;
+  top: 297px;
+  width: 70px;
+}
+
+.frame .line-4 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 404px;
+  width: 1300px;
+}
+
+.frame .a-website-isn-t {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 504px;
+  letter-spacing: 0;
+  line-height: 28.9px;
+  position: absolute;
+  top: 450px;
+  width: 666px;
+}
+
+.frame .MARKETING-SEO {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 453px;
+  white-space: nowrap;
+}
+
+.frame .overlap-3 {
+  border: 4px solid;
+  border-color: #5fc1e2;
+  border-radius: 35px;
+  height: 70px;
+  left: 1231px;
+  position: absolute;
+  top: 445px;
+  width: 70px;
+}
+
+.frame .line-5 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 555px;
+  width: 1300px;
+}
+
+.frame .text-wrapper-23 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 510px;
+  letter-spacing: 0;
+  line-height: 28.9px;
+  position: absolute;
+  top: -1px;
+  width: 619px;
+}
+
+.frame .overlap-4 {
+  height: 69px;
+  left: 418px;
+  position: absolute;
+  top: 77px;
+  width: 596px;
+}
+
+.frame .SERVICES-WE-OFFER {
+  color: transparent;
+  font-family: "Red Rose", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 69.4px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.frame .heart {
+  height: 42px;
+  left: 368px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 42px;
+}
+
+.frame .latest-projects {
+  height: 715px;
+  margin-left: -717px;
+  position: relative;
+  width: 1440px;
+}
+
+.frame .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 429px;
+  letter-spacing: 0;
+  line-height: 69.4px;
+  position: absolute;
+  text-align: center;
+  top: 69px;
+}
+
+.frame .rectangle-12 {
+  height: 302px;
+  left: 496px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 447px;
+}
+
+.frame .rectangle-13 {
+  height: 302px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 447px;
+}
+
+.frame .rectangle-14 {
+  height: 302px;
+  left: 988px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 447px;
+}
+
+.frame .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 517px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-26 {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 623px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 517px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 1116px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 517px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-28 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 28.9px;
+  position: absolute;
+  top: 571px;
+  width: 447px;
+}
+
+.frame .text-wrapper-29 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 496px;
+  letter-spacing: 0;
+  line-height: 28.9px;
+  position: absolute;
+  top: 571px;
+  width: 447px;
+}
+
+.frame .text-wrapper-30 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 988px;
+  letter-spacing: 0;
+  line-height: 28.9px;
+  position: absolute;
+  top: 571px;
+  width: 447px;
+}
+
+.frame .key-values {
+  background-color: #000000;
+  height: 146px;
+  margin-left: -717px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.frame .overlap-5 {
+  background-image: url(https://c.animaapp.com/TjgN3R4O/img/rectangle-8.png);
+  background-size: 100% 100%;
+  height: 146px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.frame .text-wrapper-31 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-15 {
+  background-color: #000000;
+  height: 3px;
+  left: 266px;
+  position: absolute;
+  top: 74px;
+  width: 28px;
+}
+
+.frame .text-wrapper-32 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 317px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-33 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 831px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-16 {
+  background-color: #000000;
+  height: 3px;
+  left: 550px;
+  position: absolute;
+  top: 75px;
+  width: 28px;
+}
+
+.frame .rectangle-17 {
+  background-color: #000000;
+  height: 3px;
+  left: 765px;
+  position: absolute;
+  top: 76px;
+  width: 28px;
+}
+
+.frame .overlap-group-3 {
+  height: 46px;
+  left: 1183px;
+  position: absolute;
+  top: 52px;
+  width: 255px;
+}
+
+.frame .time-saving {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.frame .rectangle-18 {
+  background-color: #000000;
+  height: 3px;
+  left: 15px;
+  position: absolute;
+  top: 24px;
+  width: 28px;
+}
+
+.frame .text-wrapper-34 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 597px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-19 {
+  background-color: #000000;
+  height: 3px;
+  left: 971px;
+  position: absolute;
+  top: 76px;
+  width: 28px;
+}
+
+.frame .text-wrapper-35 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 1032px;
+  letter-spacing: 0;
+  line-height: 46.2px;
+  position: absolute;
+  text-align: center;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-20 {
+  background-color: #000000;
+  height: 3px;
+  left: -45px;
+  position: absolute;
+  top: 74px;
+  width: 28px;
+}
+
+.frame .testimonials {
+  height: 673px;
+  margin-left: -717px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.frame .overlap-6 {
+  height: 433px;
+  left: -40px;
+  position: absolute;
+  top: 74px;
+  width: 1521px;
+}
+
+.frame .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 418px;
+  letter-spacing: 0;
+  line-height: 69.4px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.frame .rectangle-21 {
+  border: 3px solid;
+  border-color: #5fc1e2;
+  border-radius: 10px;
+  height: 306px;
+  left: 522px;
+  position: absolute;
+  top: 127px;
+  width: 477px;
+}
+
+.frame .rectangle-22 {
+  border: 3px solid;
+  border-color: #5fc1e2;
+  border-radius: 10px;
+  height: 306px;
+  left: 1044px;
+  position: absolute;
+  top: 127px;
+  width: 477px;
+}
+
+.frame .ellipse {
+  height: 68px;
+  left: 1079px;
+  object-fit: cover;
+  position: absolute;
+  top: 150px;
+  width: 68px;
+}
+
+.frame .text-wrapper-37 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1079px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 248px;
+  width: 379px;
+}
+
+.frame .bionutrimed {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 1079px;
+  letter-spacing: 0;
+  line-height: 28.9px;
+  position: absolute;
+  top: 374px;
+  white-space: nowrap;
+}
+
+.frame .ellipse-2 {
+  height: 68px;
+  left: 551px;
+  object-fit: cover;
+  position: absolute;
+  top: 150px;
+  width: 68px;
+}
+
+.frame .la-bottega-verde {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 551px;
+  letter-spacing: 0;
+  line-height: 28.9px;
+  position: absolute;
+  top: 374px;
+  width: 379px;
+}
+
+.frame .rectangle-23 {
+  border: 3px solid;
+  border-color: #5fc1e2;
+  border-radius: 10px;
+  height: 306px;
+  left: 0;
+  position: absolute;
+  top: 127px;
+  width: 477px;
+}
+
+.frame .ellipse-3 {
+  height: 68px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 150px;
+  width: 57px;
+}
+
+.frame .great-job-i-met {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 248px;
+  width: 437px;
+}
+
+.frame .ETNA-SICILY-TOURING {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 28.9px;
+  position: absolute;
+  top: 374px;
+  white-space: nowrap;
+}
+
+.frame .we-fully-relied-on {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 248px;
+  width: 408px;
+}
+
+.frame .arrow-left-wrapper {
+  background-color: #5fc1e280;
+  border-radius: 20px;
+  height: 40px;
+  left: 674px;
+  position: absolute;
+  top: 551px;
+  width: 40px;
+}
+
+.frame .arrow-left {
+  height: 24px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.frame .arrow-right-wrapper {
+  background-color: #5fc1e2;
+  border-radius: 20px;
+  height: 40px;
+  left: 725px;
+  position: absolute;
+  top: 551px;
+  width: 40px;
+}
+
+.frame .arrow-right {
+  height: 24px;
+  left: 9px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.frame .contact-footer {
+  height: 491px;
+  margin-left: -717px;
+  position: relative;
+  width: 1440px;
+}
+
+.frame .overlap-7 {
+  height: 147px;
+  left: 69px;
+  position: absolute;
+  top: 89px;
+  width: 624px;
+}
+
+.frame .let-s-discuss-your {
+  color: #ffffff;
+  font-family: "Red Rose", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 69.4px;
+  position: absolute;
+  top: 0;
+  width: 624px;
+}
+
+.frame .light-bulb {
+  height: 40px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 40px;
+}
+
+.frame .text-wrapper-38 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: 27.1px;
+  position: absolute;
+  top: 236px;
+  width: 537px;
+}
+
+.frame .text-wrapper-39 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 773px;
+  letter-spacing: 0;
+  line-height: 27.1px;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-40 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1039px;
+  letter-spacing: 0;
+  line-height: 27.1px;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-41 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 774px;
+  letter-spacing: 0;
+  line-height: 27.1px;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-42 {
+  color: #ffffffd1;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 774px;
+  letter-spacing: 0;
+  line-height: 27.1px;
+  position: absolute;
+  top: 202px;
+}
+
+.frame .line-6 {
+  height: 1px;
+  left: 774px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 223px;
+}
+
+.frame .line-7 {
+  height: 1px;
+  left: 1039px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 221px;
+}
+
+.frame .line-8 {
+  height: 1px;
+  left: 774px;
+  object-fit: cover;
+  position: absolute;
+  top: 267px;
+  width: 486px;
+}
+
+.frame .line-9 {
+  height: 1px;
+  left: 774px;
+  object-fit: cover;
+  position: absolute;
+  top: 182px;
+  width: 320px;
+}
+
+.frame .overlap-8 {
+  background-color: #5fc1e2;
+  border-radius: 5px;
+  height: 36px;
+  left: 775px;
+  position: absolute;
+  top: 310px;
+  width: 148px;
+}
+
+.frame .text-wrapper-43 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 27.1px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.frame .paper-plane {
+  height: 15px;
+  left: 93px;
+  position: absolute;
+  top: 9px;
+  width: 22px;
+}
+
+.frame .footer {
+  background-color: transparent;
+  height: 107px;
+  margin-left: -717px;
+  margin-right: -6px;
+  position: relative;
+  width: 1446px;
+}
+
+.frame .overlap-9 {
+  height: 107px;
+  position: relative;
+  width: 1440px;
+}
+
+.frame .line-wrapper {
+  background-color: #5fc1e2;
+  height: 107px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.frame .line-10 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1438px;
+}
+
+.frame .text-wrapper-44 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 556px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.frame .privacy-police {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-45 {
+  color: #000000;
+  font-family: "Red Rose", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 1168px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 37px;
+  white-space: nowrap;
+}
